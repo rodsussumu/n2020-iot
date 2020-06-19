@@ -27,3 +27,6 @@ Rodrigo Tanaka RM83888
 ## Overview do prototipo no tinkercad
 
 <img src="tinkercad-prototype.jpg">
+<a href="https://www.tinkercad.com/things/lg6vPxdv8Ue-ps-iot/editel?sharecode=8j6stlUjoZoEXxeVi63XUX9tdY9mfQnMThEdx77wxIQ">
+  Link para o tinkercad
+</a>
